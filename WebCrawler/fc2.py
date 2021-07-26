@@ -79,7 +79,7 @@ def main(number):
             'number': 'FC2-' + number,
             'label': '',
             'cover': getCover_fc2com(htmlcode2),
-            'imagecut': 0,
+            'imagecut': 2,
             'tag': getTag_fc2com(number),
             'actor_photo': '',
             'website': 'https://adult.contents.fc2.com/article/' + number + '/',
